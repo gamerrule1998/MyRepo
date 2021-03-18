@@ -1,2 +1,2 @@
 # MyRepo
-C Notes
+Notes
